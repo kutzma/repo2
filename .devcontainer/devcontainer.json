@@ -1,0 +1,10 @@
+{
+    "name": "PHP & MySQL",
+    "service": "app",
+    "features": {
+        "ghcr.io/devcontainers/features/mysql:1": {
+            "version": "8.0",
+            "password": "yourpassword"
+        }
+    }
+}
